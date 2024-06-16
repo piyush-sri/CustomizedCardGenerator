@@ -1,8 +1,24 @@
-# React + Vite
+# React Customizable Card Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React practice application where users can create customizable cards with their own details and remove them.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Frontend library for building user interfaces.
+- **Customizable Cards**: Create cards with custom details.
+- **Remove Card Functionality**: Ability to remove cards dynamically.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Node.js & npm (or yarn)
+
+## Installation
+
+Clone the repository and install dependencies.
+
+```bash
+git clone <repository-url>
+cd react-customizable-card-project
+npm install   # or `yarn install`
